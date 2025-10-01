@@ -45,7 +45,7 @@ When you click on a link and submit a new issue with the desired move, a GitHub 
 Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/kirakira-commits/kirakira-commits/issues/new) and I will try to fix it as soon as possible :D
 
 
-<details>
+
   <summary>Last 5 moves in this game</summary>
 <!-- BEGIN LAST MOVES -->
 
@@ -58,9 +58,9 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 | `Start game` | [ @kirakira-commits](https://github.com/kirakira-commits) |
 
 <!-- END LAST MOVES -->
-</details>
 
-<details>
+
+
   <summary>Top 10 most moves across all games</summary>
 <!-- BEGIN TOP MOVES -->
 
@@ -70,7 +70,6 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 | 2 | [@Vick-Wan](https://github.com/Vick-Wan) |
 
 <!-- END TOP MOVES -->
-</details>
 
 ---
 
