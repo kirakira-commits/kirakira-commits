@@ -1,1 +1,1 @@
-{'@kirakira-commits': 1}
+{'@kirakira-commits': 1, '@Vick-Wan': 1}
