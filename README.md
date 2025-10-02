@@ -1,3 +1,4 @@
+# TO VICK: IMPORTANT: MY WECHAT HAS BEEN 没收了, FOLLOW THE INSTRUCTIONS [HERE](https://gist.github.com/kirakira-commits/ce96756dee5fcad5a8d255d64b3d4b67) TO COMMUNICATE WITH ME. 维克我微信被收了，到以上链接跟我沟通。
 # kirakira's README Chess
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
