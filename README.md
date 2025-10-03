@@ -1,6 +1,6 @@
 # Hey! Do I know you?
 #### I'm a Splatoon modder, primarily focusing on creating imgui-nvn menus and hooks. See my example KirunaNX repo to get started ;) I know Python, C++, (a bit of) C#, ASM, and Make. My little pet here:  
-<img src="https://github.com/user-attachments/assets/d5e5a4d4-2f9e-4720-ad76-1b2fb5fdb987" width="100" height="50">
+<img src="https://github.com/user-attachments/assets/d5e5a4d4-2f9e-4720-ad76-1b2fb5fdb987" width="150" height="75">
 
 # kirakira's README Chess
 This is an open chess tournament where ANYONE can play. That's the fun part.  
