@@ -1,0 +1,12 @@
+            - name: Push updates to your profile page
+  # You may pin to the exact commit or the version.
+  # uses: umutphp/github-action-dynamic-profile-page@7ba45d6d92dc4f11ab46477cb07c8adfbb9ae192
+  uses: umutphp/github-action-dynamic-profile-page@v2
+  with:
+    # Name of the destination username/organization
+    github-username: kirakira-commits
+    # Email for the git commit
+    user-email: kirakirasplat@163.com
+    # The name of the readme file
+    readme-file: # optional, default is README.md
+          
