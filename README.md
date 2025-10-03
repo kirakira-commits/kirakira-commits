@@ -1,5 +1,6 @@
 # Hey! Do I know you?
-
+#### Heres a simple chart (that will auto update by GitHub workflows) of me:
+![](https://gitwar.herokuapp.com/badge?username=kirakira-commits)
 # kirakira's README Chess
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
