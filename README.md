@@ -1,8 +1,8 @@
 # Hey! Do I know you?
-#### Heres a simple chart (that will auto update by GitHub workflows) of me:
-![](https://gitwar.herokuapp.com/badge?username=kirakira-commits)
-# kirakira's README Chess
+#### I'm a Splatoon modder, primarily focusing on creating imgui-nvn menus and hooks. See my example KirunaNX repo to get started ;) I know Python, C++, (a bit of) C#, ASM, and Make.  
+<img src="https://github.com/user-attachments/assets/d5e5a4d4-2f9e-4720-ad76-1b2fb5fdb987" width="100" height="50">
 
+# kirakira's README Chess
 This is an open chess tournament where ANYONE can play. That's the fun part.  
 It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 
@@ -11,7 +11,7 @@ It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **1** | <img src="img/white/rook.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/king.svg" width=50px> | <img src="img/white/queen.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/rook.svg" width=50px> | **1** |
 | **2** | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **2** |
-| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | **3** |
+| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | *!*3** |
 | **4** | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/pawn.svg" width=50px> | **4** |
 | **5** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
 | **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/pawn.svg" width=50px> | **6** |
